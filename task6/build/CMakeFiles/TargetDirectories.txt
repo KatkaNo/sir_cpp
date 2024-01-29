@@ -1,0 +1,5 @@
+D:/sirius/c++/task6/build/CMakeFiles/main.dir
+D:/sirius/c++/task6/build/CMakeFiles/ALL_BUILD.dir
+D:/sirius/c++/task6/build/CMakeFiles/ZERO_CHECK.dir
+D:/sirius/c++/task6/build/src/CMakeFiles/Matrix.dir
+D:/sirius/c++/task6/build/src/CMakeFiles/Gradient.dir

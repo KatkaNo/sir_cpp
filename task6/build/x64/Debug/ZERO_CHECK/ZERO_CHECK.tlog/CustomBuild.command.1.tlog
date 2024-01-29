@@ -1,0 +1,10 @@
+^D:\SIRIUS\C++\TASK6\BUILD\CMAKEFILES\8B7BC0B3888DA13319BAC28285814680\GENERATE.STAMP.RULE
+setlocal
+"D:\Visual studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/sirius/c++/task6 -BD:/sirius/c++/task6/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/sirius/c++/task6/build/GradConj CXX.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
